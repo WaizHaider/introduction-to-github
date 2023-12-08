@@ -13,11 +13,11 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
-<!--
+<!---
   <<< Author notes: Step 2 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
--->
+--->
 
 ## Step 2: Commit a file
 
